@@ -1,5 +1,5 @@
 # Gadget-Sales-Analysis-Dashboard
-
+This project is an interactive Power BI dashboard designed to analyze gadget sales performance across brands, regions, product categories, and customer demographics. The dashboard provides insights into sales trends, profitability, customer distribution, and brand performance to support data-driven business decisions
 
 ## Project Overview
 
@@ -12,31 +12,33 @@ This project is an interactive Power BI dashboard designed to analyze gadget sal
 * Analyze customer trends and sales distribution by region
 * Support decision-making with interactive sales insights
 
+* Country: Nigeria
+
 ## Key Metrics
 
-* **Total Sales:** 1M
-* **Total Cost:** 724K
-* **Profit:** 310K
-* **Total Customers:** 250
-* **Profit Margin:** 30%
-* **Cost Ratio:** 70%
+* Total Sales: 1M
+* Total Cost: 724K
+* Profit: 310K
+* Total Customers: 250
+* Profit Margin:30%
+* Cost Ratio:70%
 
 ## Dashboard Analysis Sections
 
-* **Profit by Brand** – compares brand-level profitability
-* **Monthly Customer Trend** – tracks customer patterns over time
-* **Total Sales by Region** – shows regional sales distribution
-* **Profit by Income Level** – highlights profitability by customer income segment
+* Profit by Brand – compares brand-level profitability
+* Monthly Customer Trend – tracks customer patterns over time
+* Total Sales by Region – shows regional sales distribution
+* Profit by Income Level – highlights profitability by customer income segment
 
 ## Tools & Skills Used
 
-* **Power BI**
-* **DAX**
-* **Data Modeling**
-* **Data Visualization**
-* **Dashboard Design**
-* **Business Performance Analysis**
-* **Customer Analysis**
+* Power BI
+* DAX
+* Data Modeling
+* Data Visualization
+* Dashboard Design**
+* Business Performance Analysis
+* Customer Analysis
 
 ## Files in This Repository
 
