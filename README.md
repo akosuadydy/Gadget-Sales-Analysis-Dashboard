@@ -36,7 +36,7 @@ This project is an interactive Power BI dashboard designed to analyze gadget sal
 * DAX
 * Data Modeling
 * Data Visualization
-* Dashboard Design**
+* Dashboard Design
 * Business Performance Analysis
 * Customer Analysis
 
