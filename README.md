@@ -42,8 +42,8 @@ This project is an interactive Power BI dashboard designed to analyze gadget sal
 
 ## Files in This Repository
 
-* `Gadget Sales Analysis Dashboard.pbix` – Power BI dashboard file
-* `gadget-dashboard.png` – dashboard preview image
+* `Gadget sales dashboard.pbix` – Power BI dashboard file
+* `Screenshot 2026-06-05 160430.png` – dashboard preview image
 * `README.md` – project documentation
 
 ## Project Outcome
