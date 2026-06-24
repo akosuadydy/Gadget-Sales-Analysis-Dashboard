@@ -1,5 +1,5 @@
 # Gadget-Sales-Analysis-Dashboard
-This project is an interactive Power BI dashboard designed to analyze gadget sales performance across brands, regions, product categories, and customer demographics. The dashboard provides insights into sales trends, profitability, customer distribution, and brand performance to support data-driven business decisions
+
 
 ## Project Overview
 
